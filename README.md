@@ -1,5 +1,5 @@
 # RabbitMQChat
-A Android chat app using RabbitMQ to store messages
+An Android chat app using RabbitMQ to store messages
 
 
 SETTING A INSTANCE OF RABBITMQ NODE:
